@@ -1,0 +1,13 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Build / export artifacts (e.g., slides exported from Markdown)
+*.pdf
+*.pptx
+dist/
+build/
+node_modules/
